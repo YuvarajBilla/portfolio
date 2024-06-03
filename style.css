@@ -1,0 +1,8 @@
+body{
+    background-image: url('./Images/moon-8579189_1920.jpg')rgba(0,0,0,0.3);
+    background-blend-mode: multiply;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
